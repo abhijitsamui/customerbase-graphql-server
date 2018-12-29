@@ -1,7 +1,17 @@
 {
   "customers": [
-    { "id": "1", "name": "John Doe", "email": "john@gmail.com", "age": 35 },
-    { "id": "2", "name": "Tanup Ghosh", "email": "tanup@gmail.com", "age": 33 },
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Tanup Ghosh",
+      "email": "tanup@gmail.com",
+      "age": 40
+    },
     {
       "id": "3",
       "name": "Abhijit Samui",
@@ -15,10 +25,10 @@
       "age": 34
     },
     {
-      "id": "5",
-      "name": "Jignesh Patel",
-      "email": "jiggy@gmail.com",
-      "age": 29
+      "name": "Harry Jordon",
+      "email": "harry@gmail.com",
+      "age": 33,
+      "id": "pa2jsWU"
     }
   ]
 }
